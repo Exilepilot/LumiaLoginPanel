@@ -5,9 +5,9 @@ Lumia login panel
 
 Guide:
 --- 
--[x] = Finished
--[o] = Working on it - unfinished.
--[/] = Haven't started.
+- [x] = Finished
+- [o] = Working on it although unfinished.
+- [/] = Haven't started.
 
 Features: 
 ---
